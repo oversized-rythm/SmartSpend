@@ -233,15 +233,15 @@ Frontend runs on `http://localhost:5173`
         <sub><b>Pratyaksh Gupta</b></sub>
       </a>
       <br />
-      <sub>Team Lead | Backend Developer</sub>
+      <sub> Backend Developer </sub>
       <br />
-      <sub>📧 pratyaksh@example.com</sub>
+      <sub>📧 pratyaksh887@gmail.com</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/member2">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Team Member 2"/>
+      <a href="https://github.com/oversized-rythm">
+        <img src="https://github.com/oversized-rythm.png" width="100px;" alt="Team Member 2"/>
         <br />
-        <sub><b>Team Member 2</b></sub>
+        <sub><b>Neeti Sharma</b></sub>
       </a>
       <br />
       <sub>Frontend Developer</sub>
@@ -249,10 +249,10 @@ Frontend runs on `http://localhost:5173`
       <sub>📧 member2@example.com</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/member3">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Team Member 3"/>
+      <a href="https://github.com/aavanipachauri-hub">
+        <img src="https://github.com/aavanipachauri-hub.png" width="100px;" alt="Team Member 3"/>
         <br />
-        <sub><b>Team Member 3</b></sub>
+        <sub><b>Aavani Pachauri</b></sub>
       </a>
       <br />
       <sub>AI/ML Integration</sub>
@@ -263,7 +263,7 @@ Frontend runs on `http://localhost:5173`
       <a href="https://github.com/member4">
         <img src="https://via.placeholder.com/100" width="100px;" alt="Team Member 4"/>
         <br />
-        <sub><b>Team Member 4</b></sub>
+        <sub><b>Kanshika </b></sub>
       </a>
       <br />
       <sub>Database & DevOps</sub>
@@ -295,34 +295,6 @@ Frontend runs on `http://localhost:5173`
 
 ---
 
-## 📊 Individual Contribution Log
-
-> **📄 Detailed contribution tracking:** [View TEAM_CONTRIBUTIONS.md](docs/TEAM_CONTRIBUTIONS.md)
-
-| Team Member | Lines of Code | Commits | PRs Merged | Issues Resolved |
-|-------------|---------------|---------|------------|-----------------|
-| Pratyaksh Gupta | ~2,500 | 45 | 12 | 8 |
-| Team Member 2 | ~2,200 | 38 | 10 | 6 |
-| Team Member 3 | ~1,800 | 32 | 9 | 7 |
-| Team Member 4 | ~1,500 | 28 | 8 | 5 |
-
-*Last updated: February 2026*
-
----
-
-## 📈 Project Timeline
-
-| Phase | Duration | Status |
-|-------|----------|--------|
-| **Phase 1:** Planning & Setup | Week 1-2 | ✅ Complete |
-| **Phase 2:** Core Development | Week 3-6 | ✅ Complete |
-| **Phase 3:** AI Integration | Week 7-8 | ✅ Complete |
-| **Phase 4:** Testing & Docs | Week 9-10 | 🔄 In Progress |
-| **Phase 5:** Deployment & Demo | Week 11-12 | 📅 Upcoming |
-
-**Current Status:** 🚧 75% Complete
-
----
 
 ## 🔮 Future Enhancements
 
@@ -360,8 +332,6 @@ This project demonstrates:
 
 > 📘 **Complete Documentation:**  
 > - **[Product Requirements Document (PRD)](https://gist.github.com/Pratyakshgupta887qwert/37385b65cb199f9403fb8a3fb7cf96b1)** - Full technical specs
-> - **[API Documentation](docs/API_DOCUMENTATION.md)** - Endpoint reference
-> - **[Team Contributions](docs/TEAM_CONTRIBUTIONS.md)** - Individual work log
 
 ---
 
@@ -387,20 +357,20 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for 
 ## 📧 Contact
 
 ### Faculty Guide
-- **Name:** [Guide Name]
-- **Email:** guide@college.edu
+- **Name:** Ayush Tiwari
+- **Email:** ayush.tiwari@gla.ac.in
 
-### Team Lead
+### Team Maintainer
 - **Pratyaksh Gupta**
-- **Email:** pratyaksh@example.com
+- **Email:** pratyaksh.gupta_cs23@gla.ac.in
 - **GitHub:** [@Pratyakshgupta887qwert](https://github.com/Pratyakshgupta887qwert)
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **[Faculty Guide Name]** for project guidance
-- **[College/University Name]** for infrastructure
+- **Ayush Tiwari** for project guidance
+- **GLA University** for infrastructure
 - **Google** for Gemini API & Cloud Vision API
 - **Open Source Community** for tools & libraries
 
@@ -416,10 +386,10 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for 
 
 ### Quick Links
 
-[🚀 Live Demo](#) • [📖 Documentation](docs/PRD.md) • [👥 Team](docs/TEAM_CONTRIBUTIONS.md) • [🐛 Issues](https://github.com/Pratyakshgupta887qwert/SmartSpend/issues)
+[🚀 Live Demo](#) • [📖 Documentation](https://gist.github.com/Pratyakshgupta887qwert/37385b65cb199f9403fb8a3fb7cf96b1) • [🐛 Issues](https://github.com/Pratyakshgupta887qwert/SmartSpend/issues)
 
 ---
 
-**Academic Project | 2026 | [Your College/University Name]**
+**Academic Project | 2026 | GLA UNIVERSITY**
 
 </div>
