@@ -359,7 +359,7 @@ This project demonstrates:
 ## 📚 Documentation
 
 > 📘 **Complete Documentation:**  
-> - **[Product Requirements Document (PRD)](docs/PRD.md)** - Full technical specs
+> - **[Product Requirements Document (PRD)](https://gist.github.com/Pratyakshgupta887qwert/37385b65cb199f9403fb8a3fb7cf96b1)** - Full technical specs
 > - **[API Documentation](docs/API_DOCUMENTATION.md)** - Endpoint reference
 > - **[Team Contributions](docs/TEAM_CONTRIBUTIONS.md)** - Individual work log
 
