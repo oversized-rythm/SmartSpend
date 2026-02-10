@@ -233,7 +233,7 @@ Frontend runs on `http://localhost:5173`
         <sub><b>Pratyaksh Gupta</b></sub>
       </a>
       <br />
-      <sub> Backend Developer </sub>
+      <sub> Backend Developer & Database & DevOps </sub>
       <br />
       <sub>📧 pratyaksh887@gmail.com</sub>
     </td>
@@ -244,7 +244,7 @@ Frontend runs on `http://localhost:5173`
         <sub><b>Neeti Sharma</b></sub>
       </a>
       <br />
-      <sub>Frontend Developer</sub>
+      <sub>Frontend Developer & AI/ML Integration</sub>
       <br />
       <sub>📧 member2@example.com</sub>
     </td>
@@ -255,18 +255,18 @@ Frontend runs on `http://localhost:5173`
         <sub><b>Aavani Pachauri</b></sub>
       </a>
       <br />
-      <sub>AI/ML Integration</sub>
+      <sub>Security, Deployment & Documentation</sub>
       <br />
       <sub>📧 member3@example.com</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/member4">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Team Member 4"/>
+      <a href="https://github.com/Kanishkaverma013">
+        <img src="https://github.com/Kanishkaverma013.png" width="100px;" alt="Team Member 4"/>
         <br />
-        <sub><b>Kanshika </b></sub>
+        <sub><b>Kanshika Verma</b></sub>
       </a>
       <br />
-      <sub>Database & DevOps</sub>
+      <sub>API Development & Testing </sub>
       <br />
       <sub>📧 member4@example.com</sub>
     </td>
